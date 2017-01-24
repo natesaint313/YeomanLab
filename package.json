@@ -73,5 +73,8 @@
       "no-undef": 0,
       "no-unused-vars": 0
     }
+  },
+  "dependencies": {
+    "redux-localstorage": "^1.0.0-rc5"
   }
 }
